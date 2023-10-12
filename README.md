@@ -7,4 +7,4 @@ Favorite Earth Science topics
 - Geohazards
 
 Code snippet to clone my repository:
-git clone https://github.com/AimanHS/AimanHS.git
+`git clone https://github.com/UW-ESS-DS/AimanHS.git`
